@@ -1,0 +1,48 @@
+{
+  "campaign_id": 86,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2025-09-04T11:23:49.179Z",
+      "hash": "117a417458cbb3a06dd1488ae402b1cf05ca6c1a55da4139783e44887524415e",
+      "wallets": [
+        {
+          "type": "ETH",
+          "address": "0x3a83e753b010FaFC4f75F06380B375Ea9B6d3315",
+          "network": "Ethereum"
+        },
+        {
+          "type": "BTC",
+          "address": "3Kbaqaj8Hcpn9SV56HkVgJAu72UFWjgn1y",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "DOGE",
+          "address": "DFhusVHGv3rb3y6Y4XA4kUy6SQamRporyw"
+        },
+        {
+          "type": "LTC",
+          "address": "ltc1qjntju6ltwzs0qqgg2y3qmw547tnv3kl6m35frn"
+        },
+        {
+          "type": "BCH",
+          "address": "bitcoincash:qp2t8h6e40mu662f7fwwpe4nl8uc47fqt5t0tv8ddz"
+        },
+        {
+          "type": "LINK",
+          "address": "0x3a83e753b010FaFC4f75F06380B375Ea9B6d3315"
+        },
+        {
+          "type": "AAVE",
+          "address": "0x3a83e753b010FaFC4f75F06380B375Ea9B6d3315"
+        },
+        {
+          "type": "USDC",
+          "address": "0x3a83e753b010FaFC4f75F06380B375Ea9B6d3315",
+          "network": "Polygon"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
