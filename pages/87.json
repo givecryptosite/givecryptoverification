@@ -12,6 +12,20 @@
           "network": "Bitcoin"
         }
       ],
+      "commit_url": "https://github.com/givecryptosite/givecryptoverification/commit/10bcba881080b43d61399ee8bba97faf2db5e051"
+    },
+    {
+      "version": 2,
+      "timestamp": "2025-09-08T06:32:25.450Z",
+      "hash": "b10e45f13292165c5761ae63646a833ae30724f35a8467a6b3bf55c283dd111a",
+      "wallets": [
+        {
+          "type": "BTC",
+          "address": "bc1qch4v9mp427t7ypwpgx4annk5tw4ctq0ucea76pe3vq3m6e5z22uqjfl2we",
+          "network": "Bitcoin"
+        }
+      ],
+      "previous_hash": "6979ba215f1a34244e6dbc17cfdc31b11d4294dcd8e3d24d4a9f82311d3045ff",
       "commit_url": ""
     }
   ]
