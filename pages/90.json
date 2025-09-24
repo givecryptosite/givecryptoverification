@@ -1,0 +1,28 @@
+{
+  "campaign_id": 90,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2025-09-24T09:46:23.095Z",
+      "hash": "712e31f2c2fdb5986ad36e3eae250757079637280723ef61b0520700065bc197",
+      "wallets": [
+        {
+          "type": "USDC",
+          "address": "0xb89121aa16185ef1b09da2730a6c118ead082baa",
+          "network": "Optimism"
+        },
+        {
+          "type": "BTC",
+          "address": "bc1qzew5xuyx54g3atxcax7f2na0u9qg9ekumtdvpa",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "ETH",
+          "address": "0xb89121aa16185ef1b09da2730a6c118ead082baa",
+          "network": "Ethereum"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
