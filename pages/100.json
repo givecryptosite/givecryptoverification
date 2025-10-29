@@ -1,0 +1,17 @@
+{
+  "campaign_id": 100,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2025-10-29T19:08:54.581Z",
+      "hash": "4845827aef41fd1973335baca712e3b87321bd360eada0b7144369305f968bd0",
+      "wallets": [
+        {
+          "type": "ADA",
+          "address": "addr1vy9qhmpskd9j626z5vql0844c844s95x2p5sqtvu3xedmac0tkzfx"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
