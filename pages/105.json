@@ -1,0 +1,23 @@
+{
+  "campaign_id": 105,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2025-11-03T06:32:21.405Z",
+      "hash": "c0a55e9c52a40f1e671b530c240a4155536d3154af4edb55624546cdfbee4f06",
+      "wallets": [
+        {
+          "type": "USDC",
+          "address": "0x909e585791a5b67b30db79915d41ba40c50bd193",
+          "network": "Ethereum"
+        },
+        {
+          "type": "BTC",
+          "address": "15qJxVNhceVjKHZKCEzkRWi2zdwsbi3Xqk",
+          "network": "Bitcoin"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
