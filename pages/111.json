@@ -1,0 +1,17 @@
+{
+  "campaign_id": 111,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2025-11-12T19:36:15.131Z",
+      "hash": "08ed4ab113948c661e2a9bd1009fd9cdbb82ebce4e088c56bf278d2aee5716db",
+      "wallets": [
+        {
+          "type": "DOGE",
+          "address": "DLi6gsRb4ghwjjx97ZnsnCm1ZYnqQtAudU"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
