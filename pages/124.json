@@ -22,6 +22,30 @@
           "network": "Polygon"
         }
       ],
+      "commit_url": "https://github.com/givecryptosite/givecryptoverification/commit/97e846983adfd5a427028acb469f34b827a1c9a5"
+    },
+    {
+      "version": 2,
+      "timestamp": "2025-11-24T23:21:28.749Z",
+      "hash": "67250caac03bf2965ae4f5d9b2b746da661823f06a3b35e3daa0a44931665a89",
+      "wallets": [
+        {
+          "type": "BTC",
+          "address": "1L9L3vTtoCeD4YY7NrfLh6zdm9zPB4TLxK",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "ETH",
+          "address": "0xb13166cd8edf28484f9c5b1d8948cfc6e5789c3a",
+          "network": "Ethereum"
+        },
+        {
+          "type": "USDC",
+          "address": "0xb13166cd8edf28484f9c5b1d8948cfc6e5789c3a",
+          "network": "Polygon"
+        }
+      ],
+      "previous_hash": "3b73a85def3c99446d2eb39d733047ada95c3a80d82e8bfba35bba32a95d796c",
       "commit_url": ""
     }
   ]
