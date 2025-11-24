@@ -1,0 +1,28 @@
+{
+  "campaign_id": 124,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2025-11-24T23:20:46.587Z",
+      "hash": "3b73a85def3c99446d2eb39d733047ada95c3a80d82e8bfba35bba32a95d796c",
+      "wallets": [
+        {
+          "type": "BTC",
+          "address": "1L9L3vTtoCeD4YY7NrfLh6zdm9zPB4TLxK",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "ETH",
+          "address": "0xb13166cd8edf28484f9c5b1d8948cfc6e5789c3a",
+          "network": "Ethereum"
+        },
+        {
+          "type": "USDC",
+          "address": "0xb13166cd8edf28484f9c5b1d8948cfc6e5789c3a",
+          "network": "Polygon"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
