@@ -12,6 +12,20 @@
           "network": "Ethereum"
         }
       ],
+      "commit_url": "https://github.com/givecryptosite/givecryptoverification/commit/43232a170bbfbcf99f32913a9d70f85610d00e1f"
+    },
+    {
+      "version": 2,
+      "timestamp": "2025-11-29T18:32:46.873Z",
+      "hash": "be4896ccc3f43c30c0bab3a86feaafb7e7ee6ee9d1816f742544826948c4d770",
+      "wallets": [
+        {
+          "type": "USDC",
+          "address": "0x140fdb51f759c7f38f91a912cc609e54a40ce390",
+          "network": "Ethereum"
+        }
+      ],
+      "previous_hash": "fba1afef97ad2e23d9544e64efb97f89ad5a75692cfb52d66be949ee9ac99d3e",
       "commit_url": ""
     }
   ]
