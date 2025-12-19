@@ -1,0 +1,18 @@
+{
+  "campaign_id": 137,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2025-12-19T22:33:07.977Z",
+      "hash": "4ad7f11aa9db9e357b8dc8d09ae11e6fb9490b6a9723806e7ad93d07f8eb8cfa",
+      "wallets": [
+        {
+          "type": "ETH",
+          "address": "0x46e9e5a7386402eEF898D4230Ce0bE27f6B06F4E",
+          "network": "Ethereum"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
