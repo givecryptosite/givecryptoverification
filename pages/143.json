@@ -1,0 +1,18 @@
+{
+  "campaign_id": 143,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2025-12-24T20:56:28.234Z",
+      "hash": "91095b93a49f41663bac770407a754035a1978a53b35b168e7d3a1c0906bc3c0",
+      "wallets": [
+        {
+          "type": "BTC",
+          "address": "1DPDMiBqEbt58xEQi7vV5AAmd4XVE22cXF",
+          "network": "Bitcoin"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
