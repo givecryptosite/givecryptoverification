@@ -1,0 +1,22 @@
+{
+  "campaign_id": 149,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-01-05T17:51:30.300Z",
+      "hash": "8550d08cf70f88cf911820e1ca9faa3eb5cc717a2bcf9f7f4235b73db42082ca",
+      "wallets": [
+        {
+          "type": "BTC",
+          "address": "bc1q3mvw9fw9j4y7tkc9psfwfl5pev82t3gss0ufr7",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "DOGE",
+          "address": "D8Mxc4QhJ45A2tgd5qGy7T4SEk8RTqFwi5"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
