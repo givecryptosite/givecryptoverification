@@ -54,6 +54,33 @@
         }
       ],
       "previous_hash": "6434cd11c9eab3d9b2866140c3be740dd8851cd99386fdd6a7da9b8a8c51dc84",
+      "commit_url": "https://github.com/givecryptosite/givecryptoverification/commit/02d03b5078f64619a0dcce2f1a68ec341b66c69d"
+    },
+    {
+      "version": 5,
+      "timestamp": "2026-01-09T19:51:24.486Z",
+      "hash": "54d899298d0ba22d9811257dc3747353efac0e42a8b50565520059d75ff180fb",
+      "wallets": [
+        {
+          "type": "BTC",
+          "address": "bc1qgnhrf36x9rhcnusnh00c5tup9k7efnjzhjg9p8",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "ETH",
+          "address": "0x70d91833ce866e804174dcddfc0ed728914f4c4b",
+          "network": "Ethereum"
+        },
+        {
+          "type": "LTC",
+          "address": "ltc1qm5r29hxwcferea28avs6dwkvqc4j4zpnxfxhyg"
+        },
+        {
+          "type": "DOGE",
+          "address": "DTa4JcHnhGvqgRtUzhGCW1kScti6JNgZeD"
+        }
+      ],
+      "previous_hash": "0bfdae091da6e04671c352445bfb805f53a20f9026d37167212d1bb5f5cb9f92",
       "commit_url": ""
     }
   ]
