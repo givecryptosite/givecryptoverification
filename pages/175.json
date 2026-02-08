@@ -1,0 +1,27 @@
+{
+  "campaign_id": 175,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-02-08T15:04:24.175Z",
+      "hash": "16b220616f52e717363f8ebfe36c0aa0289beb21e18e9b9038ae438ca3827c83",
+      "wallets": [
+        {
+          "type": "ETH",
+          "address": "0x7ae68D82DCc454487652415a7AB79Ea4f291840f",
+          "network": "Polygon"
+        },
+        {
+          "type": "USDC",
+          "address": "0x7ae68D82DCc454487652415a7AB79Ea4f291840f",
+          "network": "Polygon"
+        },
+        {
+          "type": "LINK",
+          "address": "0x7ae68D82DCc454487652415a7AB79Ea4f291840f"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
