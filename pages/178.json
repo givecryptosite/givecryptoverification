@@ -1,0 +1,43 @@
+{
+  "campaign_id": 178,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-02-11T10:28:54.936Z",
+      "hash": "1861d1b0cf4f78c1df761c1e1be46f9a220f165b69e8f84ce9298ca94a46e9e6",
+      "wallets": [
+        {
+          "type": "ADA",
+          "address": "addr1vydsar6l7v8944swlhrntfgtu0p59rzgh094p0zlak4p4ls9vzlma"
+        },
+        {
+          "type": "ETC",
+          "address": "0x65084e6f76e64760bfbef2f167748922fa11c6ee"
+        },
+        {
+          "type": "DASH",
+          "address": "XjrKKTuqZ2n3ne7RLsBxW15MaUHhXwjXW1"
+        },
+        {
+          "type": "BCH",
+          "address": "11346PJ8zvSkk52Ln38GC7oRke1J42TDfU"
+        },
+        {
+          "type": "USDC",
+          "address": "0x65084e6f76e64760bfbef2f167748922fa11c6ee",
+          "network": "Ethereum"
+        },
+        {
+          "type": "BTC",
+          "address": "11346PJ8zvSkk52Ln38GC7oRke1J42TDfU",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "DOGE",
+          "address": "DPx6tTUXx6M86rNEfXyK8n8Tvp3uH3V6xb"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
