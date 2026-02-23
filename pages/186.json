@@ -1,0 +1,18 @@
+{
+  "campaign_id": 186,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-02-23T20:30:27.997Z",
+      "hash": "b9592f2f946bd6751ef1d1f93becc2d42fcfe822c62e7d9777c7f95fee411e47",
+      "wallets": [
+        {
+          "type": "USDC",
+          "address": "0xb53d3CA8304071FEB113d85700EA556E0255c3DB",
+          "network": "Ethereum"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
