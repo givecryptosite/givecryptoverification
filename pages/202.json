@@ -1,0 +1,18 @@
+{
+  "campaign_id": 202,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-03-11T18:20:22.920Z",
+      "hash": "7151557ee35d29507bfaaff35d2feb996b37445eb6567cfdf2104596de6bafd7",
+      "wallets": [
+        {
+          "type": "ETH",
+          "address": "0x0c40a1e2a4ac1989ebf572ab276fee8318b1f22c",
+          "network": "Base"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
