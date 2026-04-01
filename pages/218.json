@@ -1,0 +1,17 @@
+{
+  "campaign_id": 218,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-04-01T02:11:54.840Z",
+      "hash": "cc6e95d0d9683d1508ae11d6ee8f09ad1d12f6c6f8028c7ae68c10f8c0ab7478",
+      "wallets": [
+        {
+          "type": "LTC",
+          "address": "Lc2mvZf8XXGspiByhri4ukAhuc8rDMJgHu"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
