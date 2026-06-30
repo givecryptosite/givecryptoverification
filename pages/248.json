@@ -1,0 +1,60 @@
+{
+  "campaign_id": 248,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-06-30T08:17:53.952Z",
+      "hash": "37362a39ea6cd2ece6f465247e3bde2b119fecfc0016bf39b8605e187028c697",
+      "wallets": [
+        {
+          "type": "USDC",
+          "address": "0x5aF1e3935AA2DaE7c05C5c9a553a8fFFb6682B5d",
+          "network": "Ethereum"
+        },
+        {
+          "type": "DOGE",
+          "address": "DCuX9Ks44HNg7H8apZwuM6E6kY8Ub8fE11"
+        },
+        {
+          "type": "LTC",
+          "address": "ltc1qqmhh5p0etdqe4grz7pd2d5ye5x6ggywjzqz664"
+        },
+        {
+          "type": "DASH",
+          "address": "XqNw6MEkz8Leosd9TaRbVT9b8iAerycpPZ"
+        },
+        {
+          "type": "LINK",
+          "address": "0x5aF1e3935AA2DaE7c05C5c9a553a8fFFb6682B5d"
+        },
+        {
+          "type": "ETC",
+          "address": "0x2f5AFDe9EBD0787d7331c182be6aB0f062d3371F"
+        },
+        {
+          "type": "BCH",
+          "address": "qzl9tautcp4rattf9c3wsa5rday8xe8p7vssln6mwq"
+        },
+        {
+          "type": "UNI",
+          "address": "0x5aF1e3935AA2DaE7c05C5c9a553a8fFFb6682B5d"
+        },
+        {
+          "type": "BTC",
+          "address": "bc1qqw4spmwev0aejpzgwxxkaxffp0stvm2h32h5d2",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "ETH",
+          "address": "0x5aF1e3935AA2DaE7c05C5c9a553a8fFFb6682B5d",
+          "network": "Ethereum"
+        },
+        {
+          "type": "ADA",
+          "address": "addr1qyny9wr4y29rr65qlmg2902jz4xr34xcpu6gg6hu55uns3qequpcl9zjhzpz47p8lqx3zvt6qncvefzplmysl9t22q5qahvf3u"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
