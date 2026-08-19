@@ -1,0 +1,18 @@
+{
+  "campaign_id": 260,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-08-19T16:07:06.465Z",
+      "hash": "c9a6a283d71de1c8ef67a1cc826ce6f34c860765ef2213d72eafb9c98adfdcd9",
+      "wallets": [
+        {
+          "type": "USDC",
+          "address": "0x957Fe43b06c9225dE7772AA979CF051BD24f19bE",
+          "network": "Polygon"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
