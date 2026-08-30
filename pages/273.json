@@ -1,0 +1,17 @@
+{
+  "campaign_id": 273,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-08-30T18:53:12.563Z",
+      "hash": "c90d54cd73dee75e9bd669665920d9ac7f51f008c024dc7537a59ad610d42240",
+      "wallets": [
+        {
+          "type": "DOGE",
+          "address": "D5GjrdCL6p7bx6boYXKAB4E1ViyvwXBRpc"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
