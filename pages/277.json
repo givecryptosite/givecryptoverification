@@ -1,0 +1,17 @@
+{
+  "campaign_id": 277,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-09-02T17:12:44.314Z",
+      "hash": "9728b7ceccad27dd713abaa54028e02dc7cc82a8d8a148452f573f507528d9a3",
+      "wallets": [
+        {
+          "type": "ETC",
+          "address": "0xb84bb4f412ee359dcd1a812dcc1bd93184e9f63e"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
