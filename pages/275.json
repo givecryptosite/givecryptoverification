@@ -1,0 +1,28 @@
+{
+  "campaign_id": 275,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-09-02T08:03:22.791Z",
+      "hash": "aba2865ffd21bef1849b1aa90b42d9fb18e3a9fc130f765ef441ac165a6424fb",
+      "wallets": [
+        {
+          "type": "BTC",
+          "address": "bc1q6drcjjtrq2p9g2rhs42tvreg3hvc2tc2vt95wu",
+          "network": "Bitcoin"
+        },
+        {
+          "type": "ETH",
+          "address": "0x3213b6773C6E2681608Dc2Dd2217E98D8469c2d8",
+          "network": "Ethereum"
+        },
+        {
+          "type": "USDC",
+          "address": "0x3213b6773C6E2681608Dc2Dd2217E98D8469c2d8",
+          "network": "Ethereum"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
