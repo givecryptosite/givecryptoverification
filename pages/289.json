@@ -1,0 +1,18 @@
+{
+  "campaign_id": 289,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-09-08T04:00:14.728Z",
+      "hash": "139b2a662c05e6fd5fa0a15d7993717494269b56a9d2e051d86da458d5370132",
+      "wallets": [
+        {
+          "type": "USDC",
+          "address": "0x8a9ee3c4df22b3de0a78025f4d85687b2931fe92",
+          "network": "Base"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
