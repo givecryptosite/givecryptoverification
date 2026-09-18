@@ -1,0 +1,21 @@
+{
+  "campaign_id": 300,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-09-18T06:52:51.079Z",
+      "hash": "f2be1c5ce8e260988ba1e7a4b6dc5f2b0ec95d5028b2c5d26bb3d01c07f639a2",
+      "wallets": [
+        {
+          "type": "DOGE",
+          "address": "D5Cv9CNSmnCLTBthkgpAqo1bUiy1t9bzwn"
+        },
+        {
+          "type": "LTC",
+          "address": "ltc1q03tky3m789842scu59fpzuazqxvqx0h4l77szj"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
