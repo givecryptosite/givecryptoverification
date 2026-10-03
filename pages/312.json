@@ -1,0 +1,17 @@
+{
+  "campaign_id": 312,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-10-03T09:51:00.264Z",
+      "hash": "4187e3e56f41a22248bf962dbe0bcdc6c9d85b2747ba57e78d5202f630125295",
+      "wallets": [
+        {
+          "type": "ADA",
+          "address": "addr1v8279zmcszh2p2l00ekasven5svuqp08lqt794khu72v5hsw25ncg"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
