@@ -1,0 +1,18 @@
+{
+  "campaign_id": 318,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-10-13T06:28:07.914Z",
+      "hash": "f2b6eb954037c214cb3e1541acc31ee02442b2a366e877c4145477b51e4c0f83",
+      "wallets": [
+        {
+          "type": "ETH",
+          "address": "0xFf9321Ec6F304a0ACF45cdb78deD184C5100b327",
+          "network": "Ethereum"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
