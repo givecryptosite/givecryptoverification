@@ -1,0 +1,18 @@
+{
+  "campaign_id": 334,
+  "versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-11-11T00:08:07.570Z",
+      "hash": "242a29260555824745384420a99a563837abdddbf392cc0dfac167164891509f",
+      "wallets": [
+        {
+          "type": "USDC",
+          "address": "0xa48b71E5989816c50Eee8aF4E09D77d19148982a",
+          "network": "Polygon"
+        }
+      ],
+      "commit_url": ""
+    }
+  ]
+}
